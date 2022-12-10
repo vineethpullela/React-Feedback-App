@@ -1,0 +1,42 @@
+.app-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-card-container {
+  height: 250px;
+  width: 450px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+}
+.emoji-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.emojis-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.thank-you-container {
+  height: 250px;
+  width: 450px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  padding: 20px;
+}
+.love-img {
+  height: 50px;
+  width: 50px;
+}
